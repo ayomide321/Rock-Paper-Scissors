@@ -1,0 +1,154 @@
+"a" = (/obj/Rock,/turf,/area)
+"b" = (/turf,/area)
+"c" = (/obj/Paper,/turf,/area)
+"d" = (/obj/Scissors,/turf,/area)
+
+(1,1,1) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+babbbbbcbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbdbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,2) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,3) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,4) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,5) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,6) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,7) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,8) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,9) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
+
+(1,1,10) = {"
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+bbbbbbbbbbbb
+"}
